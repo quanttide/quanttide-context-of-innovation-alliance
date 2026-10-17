@@ -4,4 +4,10 @@
 
 ## [Unreleased]
 
+### 新增
+
 - 初始化仓库。
+
+### 变更
+
+- `qtrecurit/brochure/how.md` 移入联盟宣传册，改为 `data/brochure/qtrecurit/index.md`。
