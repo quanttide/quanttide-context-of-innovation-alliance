@@ -11,4 +11,5 @@
 ### 变更
 
 - `qtacademy/journal/` 与 `qtrecurit/journal/` 的 5 篇日志（2026-10-12 ~ 2026-10-21）移入联盟日志仓 `data/journal/`，按域与月份分二级目录。
+- `qtacademy/bylaw/svip.md` 移入联盟宣传册，改为 `data/brochure/qtacademy/svip.md`。
 - `qtrecurit/brochure/how.md` 移入联盟宣传册，改为 `data/brochure/qtrecurit/index.md`。
