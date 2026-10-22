@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### 移除
+
+- 实训基地语境移交实训基地第二大脑：`qtacademy/intention/` 移入 `quanttide-context-of-training-base` 的 `default/intention/`，本仓不再保留。
+
 ### 新增
 
 - 初始化仓库。
